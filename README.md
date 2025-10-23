@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🏆 Competition Highlights
+### Competition Highlights
 
-- **2025 ASC Student Supercomputer Challenge**
-
-- **2024 APAC HPC-AI Competition**
-  - 3rd Place out of 41 Teams
-  - Improved the performance of finetuning Llama 2 with [LitGPT](https://github.com/Lightning-AI/litgpt)
+- 1st Prize, 2025 ASC Student Supercomputer Challenge
+- 3rd Place, 7th APAC HPC-AI Competition
